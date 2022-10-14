@@ -115,6 +115,6 @@ https://dazaseal.github.io/SealCraft/web/index.html (Untested) (Minecraft)
 
 https://fognetwork.github.io/Ingot/ (Tested) (ALLOWS YOU TO REMOVE EXTENSIONS)
 
-72.5.33.63 (Tested) (DNS FOR BLOCKED BOOKMARKLETS) 
+72.5.33.63 (Blocked) (DNS FOR BLOCKED BOOKMARKLETS) (Fortinet blocks it immediately) 
 
-https://integralsolver.lol/?unlock (Untested) (Proxy) 
+https://integralsolver.lol/?unlock (Blocked) (Proxy) 
