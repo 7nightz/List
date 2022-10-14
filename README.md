@@ -75,7 +75,7 @@ https://github.com/RetroWonder/unblockify (Blocked *Unless Deployed to Replit*) 
 
 https://github.com/newnkgame/NarwhalKid.github.io (Blocked *Unless You Download the File*) (DOWNLOAD THE ZIP FILE FROM GITHUB AND OPEN INDEX.HTML) (Tutorial: https://github.com/newnkgame/tutorials/blob/main/CHROMEOSTUTORIAL.webm)
 
-https://github.com/MinoaBaccus/Unblocked-Games (Untested) (FOLLOW THE STEPS ABOVE) 
+https://github.com/MinoaBaccus/Unblocked-Games (Blocked) (FOLLOW THE STEPS ABOVE) (May add files here later on)
 
 https://incog.dev/ (Untested) (Proxy)
 
@@ -99,7 +99,7 @@ https://github.com/Buff3rOverfl0w/MicrosoftUnblocker (Untested) (WINDOWS 10 ONLY
 
 https://github.com/luphoria/UBer (Untested) (GoGuarian Bypasser) 
 
-https://hypertabs.cc/ (Unblocked) (Proxy)
+https://hypertabs.cc/ (Unblocked) (Proxy) (Some sites may not work) 
 
 https://incog.dev/ (Blocked) (Proxy)
 
