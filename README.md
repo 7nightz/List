@@ -28,7 +28,7 @@ NOTE: Some districts may begin blocking github, but until that day all of these 
 
 If you find this in the later future, I may not continue updating this site regularly so some methods may not work. 
 
-
+NOTE: Schools have began to block certain terms and keywords immediately through GoGuardian, such terms include "Unblocked Games" "Proxies" "Proxy" "Unblocked Game" if a URL includes these the page will immediately get blocked.
 
 
 10/14/22: Currently adding links to test later on.
