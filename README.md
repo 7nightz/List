@@ -43,7 +43,7 @@ https://github.com/Browncha023/M64js (Untested) (Super Mario 64)
 
 https://lioxryt.github.io/ (Untested) (Large website full of games)
 
-https://whitespider.gq/ (Tested) (Website full of emulators and tools)
+https://whitespider.gq/ (Unblocked) (Website full of emulators and tools)
 
 https://browncha023.github.io/GBA/ (Tested) (GBA & NES Emulator) (Most reliable and fun, as far as I've tested.) 
 
@@ -53,15 +53,15 @@ https://github.com/Project-Bradnails/Bradnails (Tested) (ONLY USE THIS IF YOU'RE
 
 https://radon.games/ (Untested) (Large list of games)
 
-https://interstellarofficial.gq/ (Tested) (Great games and apps)
+https://interstellarofficial.gq/ (Unblocked) (Great games and apps)
 
 https://github.com/mathgames66/mathgames66.github.io (Untested) (Proxy and Games)
 
-https://tiber.ml/ (Tested) (List of games)
+https://tiber.ml/ (Unblocked) (List of games)
 
 https://unblocked-x.com/ (Untested) (Games)
 
-https://safs-inc.github.io/ (Tested) (Games & Apps)
+https://safs-inc.github.io/ (Unblocked) (Games & Apps)
 
 https://teddblue.github.io/gamebois/ (Tested) (GBA/GBC/GB/DS Emulator)
 
@@ -71,23 +71,23 @@ https://cadecraft.github.io/ (Untested) (Download to a unblocked browser)
 
 https://v10-13.github.io/class-games/ (Untested) (Games)
 
-https://github.com/RetroWonder/unblockify (Not Working *Unless Deployed to Replit*) (CREATE A REPLIT ACCOUNT AND DEPLOY IT FROM THERE) (Proxy)
+https://github.com/RetroWonder/unblockify (Blocked *Unless Deployed to Replit*) (CREATE A REPLIT ACCOUNT AND DEPLOY IT FROM THERE) (Proxy)
 
-https://github.com/newnkgame/NarwhalKid.github.io *Not Working (Unless You Download the File*) (DOWNLOAD THE ZIP FILE FROM GITHUB AND OPEN INDEX.HTML) (Tutorial: https://github.com/newnkgame/tutorials/blob/main/CHROMEOSTUTORIAL.webm)
+https://github.com/newnkgame/NarwhalKid.github.io (Blocked *Unless You Download the File*) (DOWNLOAD THE ZIP FILE FROM GITHUB AND OPEN INDEX.HTML) (Tutorial: https://github.com/newnkgame/tutorials/blob/main/CHROMEOSTUTORIAL.webm)
 
 https://github.com/MinoaBaccus/Unblocked-Games (Untested) (FOLLOW THE STEPS ABOVE) 
 
 https://incog.dev/ (Untested) (Proxy)
 
-https://github.com/NebulaServices/Nebula (Not Working *Unless Deployed to Replit*) (Proxy)
+https://github.com/NebulaServices/Nebula (Blocked *Unless Deployed to Replit*) (Proxy)
 
-https://github.com/vibedivide/powermouse (Not Working *Unless Deployed to Replit*) (Proxy)
+https://github.com/vibedivide/powermouse (Blocked *Unless Deployed to Replit*) (Proxy)
 
-https://github.com/FogNetwork/Shadow (Not Working *UNLESS YOU DEPLOY IT ON REPLIT*) (Proxy
+https://github.com/FogNetwork/Shadow (Blocked *UNLESS YOU DEPLOY IT ON REPLIT*) (Proxy
 
-https://github.com/FogNetwork/Riptide (Not Working *UNLESS YOU DEPLOY IT ON REPLIT*) (Proxy)
+https://github.com/FogNetwork/Riptide (Blocked *UNLESS YOU DEPLOY IT ON REPLIT*) (Proxy)
 
-https://github.com/navaneethkm004/flask-proxy (Not Working *UNLESS YOU DEPLOY IT ON REPLIT*) (Proxy)
+https://github.com/navaneethkm004/flask-proxy (Blocked *UNLESS YOU DEPLOY IT ON REPLIT*) (Proxy)
 
 https://github.com/unblockhype/Hype (UNDER DEVELOPMENT) (Proxy)
 
@@ -99,21 +99,21 @@ https://github.com/Buff3rOverfl0w/MicrosoftUnblocker (Untested) (WINDOWS 10 ONLY
 
 https://github.com/luphoria/UBer (Untested) (GoGuarian Bypasser) 
 
-https://hypertabs.cc/ (Untested) (Proxy)
+https://hypertabs.cc/ (Unblocked) (Proxy)
 
-https://incog.dev/ (Untested) (Proxy)
+https://incog.dev/ (Blocked) (Proxy)
 
-https://holyubofficial.net/ (Untested) (Proxy)
+https://holyubofficial.net/ (Blocked) (Proxy)
 
-https://ludicrous.icu/ (Untested) (Proxy)
+https://ludicrous.icu/ (Blocked) (Proxy)
 
-https://illusive.app/ (Untested) (Proxy)
+https://illusive.app/ (Blocked) (Proxy)
 
-https://terbium.ga/ (Untested) (Proxy)
+https://terbium.ga/ (Blocked) (Proxy)
 
 https://dazaseal.github.io/SealCraft/web/index.html (Untested) (Minecraft)
 
-https://fognetwork.github.io/Ingot/ (Tested) (ALLOWS YOU TO REMOVE EXTENSIONS)
+https://fognetwork.github.io/Ingot/ (Unblocked) (ALLOWS YOU TO REMOVE EXTENSIONS)
 
 72.5.33.63 (Blocked) (DNS FOR BLOCKED BOOKMARKLETS) (Fortinet blocks it immediately) 
 
