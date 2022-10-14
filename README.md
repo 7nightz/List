@@ -91,13 +91,9 @@ https://github.com/navaneethkm004/flask-proxy (Blocked *UNLESS YOU DEPLOY IT ON 
 
 https://github.com/unblockhype/Hype (UNDER DEVELOPMENT) (Proxy)
 
-https://github.com/rice-a-rona/GoGuardian-Blaster (Could Work / Untested) (Extension Bypasser)
-
 https://github.com/gamosoft/unblock-all-files (Untested) (WINDOWS 10 ONLY) (Unblocks files for windows 10 laptops) 
 
 https://github.com/Buff3rOverfl0w/MicrosoftUnblocker (Untested) (WINDOWS 10 ONLY) (Unblocks files for windows 10 laptops)
-
-https://github.com/luphoria/UBer (Untested) (GoGuarian Bypasser) 
 
 https://hypertabs.cc/ (Unblocked) (Proxy) (Some sites may not work) 
 
