@@ -29,6 +29,13 @@ NOTE: Some districts may begin blocking github, but until that day all of these 
 If you find this in the later future, I may not continue updating this site regularly so some methods may not work. 
 
 
+
+
+10/14/22: Currently adding links to test later on.
+
+
+
+
 LIST OF UNBLOCKED GAMES/SITES/BYPASSES FOR SCHOOL:
 
 
@@ -109,3 +116,5 @@ https://dazaseal.github.io/SealCraft/web/index.html (Untested) (Minecraft)
 https://fognetwork.github.io/Ingot/ (Tested) (ALLOWS YOU TO REMOVE EXTENSIONS)
 
 72.5.33.63 (Tested) (DNS FOR BLOCKED BOOKMARKLETS) 
+
+https://integralsolver.lol/?unlock (Untested) (Proxy) 
