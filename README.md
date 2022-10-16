@@ -116,3 +116,5 @@ https://fognetwork.github.io/Ingot/ (Unblocked) (ALLOWS YOU TO REMOVE EXTENSIONS
 https://integralsolver.lol/?unlock (Blocked) (Proxy) 
 
 https://mettet.ml/ (Untested) (Should be unblocked but the github repo itself is blocked)
+
+https://github.com/illusive-dev/illusive (Untested) (Proxy)
