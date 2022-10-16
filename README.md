@@ -114,3 +114,5 @@ https://fognetwork.github.io/Ingot/ (Unblocked) (ALLOWS YOU TO REMOVE EXTENSIONS
 72.5.33.63 (Blocked) (DNS FOR BLOCKED BOOKMARKLETS) (Fortinet blocks it immediately) 
 
 https://integralsolver.lol/?unlock (Blocked) (Proxy) 
+
+https://mettet.ml/ (Untested) (Should be unblocked but the github repo itself is blocked)
