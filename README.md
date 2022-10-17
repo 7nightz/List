@@ -33,7 +33,7 @@ NOTE: Schools have began to block certain terms and keywords immediately through
 
 10/14/22: Currently adding links to test later on.
 
-
+10/17/22: They are beginning to massblock bookmarklets, they've posted it on their subreddit.   
 
 
 LIST OF UNBLOCKED GAMES/SITES/BYPASSES FOR SCHOOL:
