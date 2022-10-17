@@ -111,7 +111,7 @@ https://dazaseal.github.io/SealCraft/web/index.html (Untested) (Minecraft)
 
 https://fognetwork.github.io/Ingot/ (Unblocked) (ALLOWS YOU TO REMOVE EXTENSIONS)
 
-72.5.33.63 (Blocked) (DNS FOR BLOCKED BOOKMARKLETS) (Fortinet blocks it immediately) 
+72.5.33.63 (Blocked) (DNS THAT BYPASSES GOGUARDIAN) (Can't change DNS setings while connected to the school WIFI) 
 
 https://integralsolver.lol/?unlock (Blocked) (Proxy) 
 
