@@ -69,7 +69,7 @@ https://unblocker.whitespider.gq/ (Untested) (Proxy) (https://unblocker.ruochenj
 
 https://cadecraft.github.io/ (Untested) (Download to a unblocked browser) 
 
-https://v10-13.github.io/class-games/ (Untested) (Games)
+https://v10-13.github.io/class-games/ (Unblocked) (Games)
 
 https://github.com/RetroWonder/unblockify (Blocked *Unless Deployed to Replit*) (CREATE A REPLIT ACCOUNT AND DEPLOY IT FROM THERE) (Proxy)
 
@@ -77,7 +77,7 @@ https://github.com/newnkgame/NarwhalKid.github.io (Blocked *Unless You Download 
 
 https://github.com/MinoaBaccus/Unblocked-Games (Blocked) (FOLLOW THE STEPS ABOVE) (May add files here later on)
 
-https://incog.dev/ (Untested) (Proxy)
+https://incog.dev/ (BLocked) (Proxy)
 
 https://github.com/NebulaServices/Nebula (Blocked *Unless Deployed to Replit*) (Proxy)
 
