@@ -39,7 +39,7 @@ NOTE: Schools have began to block certain terms and keywords immediately through
 LIST OF UNBLOCKED GAMES/SITES/BYPASSES FOR SCHOOL:
 
 
-https://github.com/Browncha023/M64js (Untested) (Super Mario 64)
+https://github.com/Browncha023/M64js (Blocked) (Super Mario 64)
 
 https://lioxryt.github.io/ (Untested) (Large website full of games)
 
