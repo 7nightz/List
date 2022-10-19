@@ -63,11 +63,11 @@ https://unblocked-x.com/ (Untested) (Games)
 
 https://safs-inc.github.io/ (Unblocked) (Games & Apps)
 
-https://teddblue.github.io/gamebois/ (Tested) (GBA/GBC/GB/DS Emulator)
+https://teddblue.github.io/gamebois/ (Unblocked) (GBA/GBC/GB/DS Emulator)
 
-https://unblocker.whitespider.gq/ (Untested) (Proxy) (https://unblocker.ruochenjia.repl.co Alternative)
+https://unblocker.whitespider.gq/ (Blocked) (Proxy) (https://unblocker.ruochenjia.repl.co Alternative)
 
-https://cadecraft.github.io/ (Untested) (Download to a unblocked browser) 
+https://cadecraft.github.io/ (Blocked) (Download to a unblocked browser) 
 
 https://v10-13.github.io/class-games/ (Unblocked) (Games)
 
@@ -77,7 +77,7 @@ https://github.com/newnkgame/NarwhalKid.github.io (Blocked *Unless You Download 
 
 https://github.com/MinoaBaccus/Unblocked-Games (Blocked) (FOLLOW THE STEPS ABOVE) (May add files here later on)
 
-https://incog.dev/ (BLocked) (Proxy)
+https://incog.dev/ (Blocked) (Proxy)
 
 https://github.com/NebulaServices/Nebula (Blocked *Unless Deployed to Replit*) (Proxy)
 
