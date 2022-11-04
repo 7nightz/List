@@ -41,25 +41,25 @@ LIST OF UNBLOCKED GAMES/SITES/BYPASSES FOR SCHOOL:
 
 https://github.com/Browncha023/M64js (Blocked) (Super Mario 64)
 
-https://lioxryt.github.io/ (Untested) (Large website full of games)
+https://lioxryt.github.io/ (Unblocked) (Large website full of games)
 
 https://whitespider.gq/ (Unblocked) (Website full of emulators and tools)
 
 https://browncha023.github.io/GBA/ (Tested) (GBA & NES Emulator) (Most reliable and fun, as far as I've tested.) 
 
-https://3kh0.github.io/projects.html (Untested) (Games) 
+https://3kh0.github.io/projects.html (Blocked) (Games) 
 
-https://github.com/Project-Bradnails/Bradnails (Tested) (ONLY USE THIS IF YOU'RE ON WINDOWS 10!) 
+https://github.com/Project-Bradnails/Bradnails (Unblocked) (ONLY USE THIS IF YOU'RE ON WINDOWS 10!) 
 
-https://radon.games/ (Untested) (Large list of games)
+https://radon.games/ (Blocked) (Large list of games)
 
 https://interstellarofficial.gq/ (Unblocked) (Great games and apps)
 
-https://github.com/mathgames66/mathgames66.github.io (Untested) (Proxy and Games)
+https://github.com/mathgames66/mathgames66.github.io (Unblocked) (Proxy and Games)
 
 https://tiber.ml/ (Unblocked) (List of games)
 
-https://unblocked-x.com/ (Untested) (Games)
+https://unblocked-x.com/ (Unblocked) (Games)
 
 https://safs-inc.github.io/ (Unblocked) (Games & Apps)
 
@@ -107,7 +107,8 @@ https://illusive.app/ (Blocked) (Proxy)
 
 https://terbium.ga/ (Blocked) (Proxy)
 
-https://dazaseal.github.io/SealCraft/web/index.html (Untested) (Minecraft)
+https://dazaseal.github.io/SealCraft/web/index.html (Unblocked) (Minecraft Client)
+https://github.com/PrecisionClient/PrecisionClient 
 
 https://fognetwork.github.io/Ingot/ (Unblocked) (ALLOWS YOU TO REMOVE EXTENSIONS)
 
